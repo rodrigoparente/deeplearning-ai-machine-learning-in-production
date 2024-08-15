@@ -1,6 +1,6 @@
-# DeepLearning.ai Machine Learning in Production
+# DeepLearning.AI Machine Learning in Production
 
-This repository contains the notes I took while doing the [Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production) course offered by DeepLearning.ai on Coursera.
+This repository contains the notes I took while doing the [Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production) course offered by DeepLearning.AI on Coursera.
 
 ## Course Syllabus
 
